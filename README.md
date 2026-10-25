@@ -4414,6 +4414,36 @@ Network toggle with Ethernet, WiFi, and Other interfaces (bridges, VLANs, bonds)
 
 
 
+#### [Fcitx5 Indicator](https://github.com/Nixie24/dux-plugin-fcitx5-indicator)
+
+Shows the active Fcitx5 input method as a language icon in DankBar
+
+
+
+- id: fcitx5Indicator
+- name: Fcitx5 Indicator
+- author: Nixie24
+- compositors: any
+- capabilities: dankbar-widget
+- dependencies: fcitx5-remote, busctl
+- distro: any
+
+
+
+
+
+
+<details>
+<summary>Screenshot</summary>
+
+![screenshot](https://raw.githubusercontent.com/Nixie24/dux-plugin-fcitx5-indicator/main/screenshot.png)
+
+</details>
+
+
+
+
+
 #### [Fingerprint](https://github.com/GlennMm/dms-fingerprint)
 
 Enroll, test and delete fingerprints via fprintd, from the bar or Control Center
