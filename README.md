@@ -1556,15 +1556,15 @@ Shows the battery level of a SteelSeries Aerox 3 Wireless Gen 2 mouse in the bar
 
 #### [AiOverviewControl](https://github.com/bernardopg/AiOverviewControl)
 
-Quota, billing and usage for 37 AI providers, including Claude, Codex, Copilot and Gemini, from DankBar
+Quota, billing and usage for 40+ AI providers, including Claude, Codex, Copilot and Gemini, in DankBar and a DankDash card
 
-
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: aiOverviewControl
 - name: AiOverviewControl
 - author: Bernardo Gomes
 - compositors: any
-- capabilities: dankbar-widget
+- capabilities: dankbar-widget, dash-card
 - dependencies: bash, jq, curl, sqlite3, flock, secret-tool
 - distro: any
 
