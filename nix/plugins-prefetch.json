@@ -103,7 +103,7 @@
       "name": "Activate Linux Watermark",
       "path": "activateLinux",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/activateLinux/screenshot.png",
       "version": "2.2.1"
     },
@@ -454,7 +454,7 @@
       "name": "Ambient Sounds",
       "path": "ambientSound",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/ambientSound/screenshot.png",
       "version": "2.6.1"
     },
@@ -1273,7 +1273,7 @@
       "name": "Bongo Cat",
       "path": "bongoCat",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/bongoCat/screenshot.png",
       "version": "2.4.1"
     },
@@ -1350,7 +1350,7 @@
       "name": "Breathing Exercise",
       "path": "breathing",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/breathing/screenshot.png",
       "version": "2.2.1"
     },
@@ -4878,7 +4878,7 @@
       "name": "Desktop Widget Toggle",
       "path": "desktopWidgetToggle",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/desktopWidgetToggle/screenshot.png",
       "version": "1.4.2"
     },
@@ -6137,7 +6137,7 @@
       "name": "Emoji Picker",
       "path": "emojiPicker",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/emojiPicker/screenshot.png",
       "version": "0.5.1"
     },
@@ -7129,7 +7129,7 @@
       "name": "Hand Mirror",
       "path": "handMirror",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/handMirror/screenshot.png",
       "version": "1.2.1"
     },
@@ -7202,7 +7202,7 @@
       "name": "Hidden Bar",
       "path": "hiddenBar",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/hiddenBar/screenshot.png",
       "version": "2.5.4"
     },
@@ -7385,7 +7385,7 @@
       "name": "Hydrate",
       "path": "hydrate",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/hydrate/screenshot.png",
       "version": "2.2.2"
     },
@@ -7710,7 +7710,7 @@
       "name": "IP Indicator",
       "path": "ipIndicator",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/ipIndicator/screenshot.png",
       "version": "2.1.3"
     },
@@ -7746,7 +7746,7 @@
       "name": "Kaomoji Picker",
       "path": "kaomojiPicker",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/kaomojiPicker/screenshot.png",
       "version": "2.3.1"
     },
@@ -8295,7 +8295,7 @@
       "name": "Lutris Launcher",
       "path": "lutrisLauncher",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/lutrisLauncher/screenshot.png",
       "version": "2.1.2"
     },
@@ -8779,7 +8779,7 @@
       "name": "Media Downloader",
       "path": "mediaDownloader",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/mediaDownloader/screenshot.png",
       "version": "1.1.0"
     },
@@ -9574,7 +9574,7 @@
       "name": "Niri Display Settings",
       "path": "niriDS",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/niriDS/screenshot.png",
       "version": "2.0.6"
     },
@@ -10112,7 +10112,7 @@
       "name": "OCR Scanner",
       "path": "ocrScanner",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/ocrScanner/screenshot.png",
       "version": "2.1.2"
     },
@@ -10374,6 +10374,7 @@
       "name": "Persona 5 Calendar",
       "path": "persona5Calendar",
       "repo": "https://github.com/hthienloc/dms-plugins",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/persona5Calendar/screenshot.png",
       "version": "1.1.1"
     },
@@ -10848,8 +10849,7 @@
         "imagemagick",
         "img2pdf",
         "tesseract",
-        "zbar",
-        "curl"
+        "zbar"
       ],
       "description": "Screenshot annotation and screen recording plugin.",
       "distro": [
@@ -10860,7 +10860,7 @@
       "name": "Quick Capture",
       "path": "quickCapture",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.6.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/quickCapture/screenshot.png",
       "version": "5.8.0"
     },
@@ -11543,7 +11543,7 @@
       "name": "Screenkey",
       "path": "screenkey",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/screenkey/screenshot.png",
       "version": "1.1.1"
     },
@@ -12495,7 +12495,7 @@
       "name": "Take a Break",
       "path": "takeABreak",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/takeABreak/screenshot.png",
       "version": "1.5.1"
     },
@@ -12761,7 +12761,7 @@
       "name": "Timer",
       "path": "timer",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/timer/screenshot.png",
       "version": "3.1.1"
     },
@@ -12984,7 +12984,7 @@
       "name": "Typing Sounds",
       "path": "typingSounds",
       "repo": "https://github.com/hthienloc/dms-plugins",
-      "requires_dms": ">=1.5.0",
+      "requires_dms": ">=2.0.0",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/typingSounds/screenshot.png",
       "version": "1.4.1"
     },
