@@ -3525,16 +3525,16 @@ List, search, create, and complete dcal tasks from the launcher, with natural la
 
 #### [GitHub Inbox](https://github.com/TMS-Namespace/DMS-GitHub-Inbox-Plugin)
 
-View and manage GitHub inbox messages (notifications) from a DMS popup widget
+View and manage GitHub inbox messages (notifications) from a popup
 
-<strong>requires DMS version</strong>: <em>>=1.2.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: githubInbox
 - name: GitHub Inbox
 - author: TMS-Namespace
 - compositors: any
 - capabilities: dankbar-widget
-- dependencies: curl, secret-tool, jq, notify-send, file, bash
+- dependencies: curl, secret-tool, jq, file, bash, nice, cp, find, mkdir, cat, rm, env, sleep
 - distro: any
 
 
@@ -3545,7 +3545,7 @@ View and manage GitHub inbox messages (notifications) from a DMS popup widget
 <details>
 <summary>Screenshot</summary>
 
-![screenshot](https://github.com/TMS-Namespace/DMS-GitHub-Inbox-Plugin/raw/main/Images/plugin_group_by_date.png)
+![screenshot](https://github.com/TMS-Namespace/DMS-GitHub-Inbox-Plugin/raw/main/images/plugin_group_by_date.png)
 
 </details>
 
