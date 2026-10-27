@@ -312,12 +312,12 @@
     "url": "https://github.com/agneswd/dms-ai-quotas"
   },
   "aibou": {
-    "date": "2026-10-27T10:27:57+01:00",
+    "date": "2026-10-27T11:23:21+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-qbgotk/M25NN/tIvpumaWT/Ry41K+8xnN4eFczE70HM=",
+    "hash": "sha256-GGUbyPpZdLbbiY1vJ9WmbCzNVZykdnLnON0YoVOaYjk=",
     "leaveDotGit": false,
     "meta": {
       "author": "satoshoe",
@@ -345,10 +345,10 @@
       "screenshot": "https://raw.githubusercontent.com/satoshoe-dev/aibou/main/docs/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/qx6flxas43v9z9nqnivyxhlc9jj2i98f-aibou",
-    "rev": "d9cf95db3566de02f2ef8ef090f6e51c5f98e9ae",
+    "path": "/nix/store/ba7b7yjrfcgvmaxqkxhch3z865v9lxkl-aibou",
+    "rev": "7e818aa5d11fccca9be54bab87ff3d07afbbc871",
     "rootDir": "",
-    "sha256": "0wyh7cqp71c76xkwrysaip5x2gsrkblscbyjzr6r7nyc9yv2if59",
+    "sha256": "0fb2k99s266x73kp4xm4kiawsb3clvajfvwdi7dvcx2rzb41nr8q",
     "url": "https://github.com/satoshoe-dev/aibou"
   },
   "airQuality": {
@@ -6818,12 +6818,12 @@
     "url": "https://github.com/JDKamalakar/DMS-GitHub_HeatMap"
   },
   "githubInbox": {
-    "date": "2026-10-26T12:48:02+01:00",
+    "date": "2026-10-27T13:42:02+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-AWU9fvaukdK8WsFZ7Gy8T4WQx65HIFBM5eQcklfsVwk=",
+    "hash": "sha256-c6ewL7anuF6d2B3CzVINP/ILAOzxaqfyAqkKfACw+u0=",
     "leaveDotGit": false,
     "meta": {
       "author": "TMS-Namespace",
@@ -6831,7 +6831,7 @@
         "dankbar-widget"
       ],
       "category": "productivity",
-      "component": "./QML/Widget.qml",
+      "component": "./src/QML/Widget.qml",
       "compositors": [
         "any"
       ],
@@ -6839,11 +6839,18 @@
         "curl",
         "secret-tool",
         "jq",
-        "notify-send",
         "file",
-        "bash"
+        "bash",
+        "nice",
+        "cp",
+        "find",
+        "mkdir",
+        "cat",
+        "rm",
+        "env",
+        "sleep"
       ],
-      "description": "View and manage GitHub inbox messages (notifications) from a DMS popup widget",
+      "description": "View and manage GitHub inbox messages (notifications) from a popup",
       "distro": [
         "any"
       ],
@@ -6857,16 +6864,16 @@
         "network"
       ],
       "repo": "https://github.com/TMS-Namespace/DMS-GitHub-Inbox-Plugin",
-      "requires_dms": ">=1.2.0",
-      "screenshot": "https://github.com/TMS-Namespace/DMS-GitHub-Inbox-Plugin/raw/main/Images/plugin_group_by_date.png",
-      "settings": "./QML/Views/Settings.qml",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://github.com/TMS-Namespace/DMS-GitHub-Inbox-Plugin/raw/main/images/plugin_group_by_date.png",
+      "settings": "./src/QML/Settings.qml",
       "type": "widget",
       "version": "2.0.0"
     },
-    "path": "/nix/store/z8f10g3b7vsrrisf3dz26linbb5vzww7-DMS-GitHub-Inbox-Plugin",
-    "rev": "ea4aed25ed8bb65984314ac4ff9b673c371fa84b",
+    "path": "/nix/store/fqy882ldjyh1m3i2705zcbc72jdcphb9-DMS-GitHub-Inbox-Plugin",
+    "rev": "d6896670f19717be8e137261434440b902cac5cb",
     "rootDir": "",
-    "sha256": "02apxibr4774wm650827mv3r11agpinfqnf1bayd54dfyrz3sr81",
+    "sha256": "1vgsn007q2m90brafspixh00pwiz1m9cvhhxv2fmxf57nqpv19vk",
     "url": "https://github.com/TMS-Namespace/DMS-GitHub-Inbox-Plugin"
   },
   "githubNotifier": {
