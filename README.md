@@ -4538,7 +4538,7 @@ Monitor Framework Laptop fan status and switch fw-fanctrl strategies from DankBa
 
 Display public IP address, ISP, and location with a privacy-focused toggle.
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: ipIndicator
 - name: IP Indicator
@@ -5221,7 +5221,7 @@ Integrated AI chat assistant with markdown support, multiple AI provider support
 
 Adds a watermark to the bottom-right of the screen
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: activateLinux
 - name: Activate Linux Watermark
@@ -5381,7 +5381,7 @@ Alienware Command Center plugin for DankBar
 
 Play ambient focus sounds with integrated sleep timer and volume control.
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: ambientSound
 - name: Ambient Sounds
@@ -5661,7 +5661,7 @@ Search and manage Bitwarden or Vaultwarden using the official Bitwarden CLI, wit
 
 A reactive animated cat that taps along with your keyboard input.
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: bongoCat
 - name: Bongo Cat
@@ -5696,7 +5696,7 @@ A reactive animated cat that taps along with your keyboard input.
 
 A guided breathing exercise tool for mindfulness and relaxation.
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: breathing
 - name: Breathing Exercise
@@ -7446,7 +7446,7 @@ A widget that displays a command output on your desktop
 
 Toggle visibility of desktop widget groups as overlay
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: desktopWidgetToggle
 - name: Desktop Widget Toggle
@@ -7816,7 +7816,7 @@ Search and copy 300+ emojis and 100+ unicode characters directly from the launch
 
 Search, copy, and paste emoji from a centered picker.
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: emojiPicker
 - name: Emoji Picker
@@ -8296,7 +8296,7 @@ Popout translation widget for DankMaterialShell bar. Select text, click the tran
 
 Cozy camera preview with digital zoom, snapshots, and a pinnable floating window.
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: handMirror
 - name: Hand Mirror
@@ -8331,7 +8331,7 @@ Cozy camera preview with digital zoom, snapshots, and a pinnable floating window
 
 Hide/Show bar widgets with a click or hover
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: hiddenBar
 - name: Hidden Bar
@@ -8486,7 +8486,7 @@ Control your Philips Hue lights directly from DMS
 
 Drink water reminder and tracker.
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: hydrate
 - name: Hydrate
@@ -8706,7 +8706,7 @@ Run a command on a custom interval and display its output in the bar. Supports m
 
 A lightweight launcher for browsing and copying kaomojis to the clipboard.
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: kaomojiPicker
 - name: Kaomoji Picker
@@ -8951,7 +8951,7 @@ Displays LiveChart anime schedule data pulled from a local browser session.
 
 Quickly browse and launch games from your Lutris library.
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: lutrisLauncher
 - name: Lutris Launcher
@@ -9211,7 +9211,7 @@ Media controls with full bar volume scroll. Disables workspace scroll.
 
 Download audio and video from web links using yt-dlp
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: mediaDownloader
 - name: Media Downloader
@@ -9431,7 +9431,7 @@ AI assistant, made to be useful
 
 Quickly toggle and configure display outputs in the Niri Wayland compositor.
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: niriDS
 - name: Niri Display Settings
@@ -9651,7 +9651,7 @@ Nothing OS-inspired desktop clock with 6 styles: digital, split, analog, analog 
 
 Extract text from clipboard images or local files using Tesseract OCR.
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: ocrScanner
 - name: OCR Scanner
@@ -9806,7 +9806,7 @@ A bilingual Persian Jalali calendar with holidays, occasions, custom events, con
 
 Layered Persona 5 / Royal desktop calendar HUD with animated weather
 
-
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: persona5Calendar
 - name: Persona 5 Calendar
@@ -10091,14 +10091,14 @@ Monitor and control your Pulsar X3 gaming mouse
 
 Screenshot annotation and screen recording plugin.
 
-<strong>requires DMS version</strong>: <em>>=1.6.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: quickCapture
 - name: Quick Capture
 - author: Loc Huynh
 - compositors: any
 - capabilities: daemon, control-center, dankbar-widget
-- dependencies: gpu-screen-recorder, wf-recorder, ffmpeg, imagemagick, img2pdf, tesseract, zbar, curl
+- dependencies: gpu-screen-recorder, wf-recorder, ffmpeg, imagemagick, img2pdf, tesseract, zbar
 - distro: any
 - translations: 🌐 centrally translated via the DMS POEditor project
 
@@ -10611,7 +10611,7 @@ GPU-accelerated monitor recording with VFR, quality and resolution controls, cur
 
 An always-on-top keystroke and mouse click visualizer for tutorials.
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: screenkey
 - name: Screenkey
@@ -10996,7 +10996,7 @@ Unified DMS system monitor with capabilities to customize resources order, resou
 
 A gentle companion that reminds you to rest your eyes with short and long breaks.
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: takeABreak
 - name: Take a Break
@@ -11151,7 +11151,7 @@ Display a customizable countdown timer in the Dankbar. Perfect for tracking impo
 
 A countdown timer with notification support and audio alerts.
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: timer
 - name: Timer
@@ -11246,7 +11246,7 @@ Monitor and manage your system trash directly from your status bar. Features rea
 
 Play mechanical keyboard sounds as you type
 
-<strong>requires DMS version</strong>: <em>>=1.5.0</em>
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: typingSounds
 - name: Typing Sounds
