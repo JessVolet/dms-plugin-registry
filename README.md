@@ -9272,18 +9272,18 @@ Download audio and video from web links using yt-dlp
 
 
 
-#### [Media Player](https://github.com/arrifat346afs/mediaPlayer)
+#### [Media Player](https://github.com/bernardopg/mediaPlayer)
 
-A desktop media player widget
+Desktop MPRIS player with spinning album art, playback controls, a seekbar and an optional wave background. Uses the shell's media services, hides when nothing is playing.
 
-
+<strong>requires DMS version</strong>: <em>>=2.0.0</em>
 
 - id: mediaPlayer
 - name: Media Player
-- author: Abdur Rahman Rifat
+- author: Bernardo Gomes (originally by Abdur Rahman Rifat)
 - compositors: any
 - capabilities: desktop-widget
-- dependencies: cava
+- dependencies: 
 - distro: any
 
 
@@ -9294,7 +9294,7 @@ A desktop media player widget
 <details>
 <summary>Screenshot</summary>
 
-![screenshot](https://raw.githubusercontent.com/arrifat346afs/mediaPlayer/refs/heads/main/screenshot_8.png)
+![screenshot](https://raw.githubusercontent.com/bernardopg/mediaPlayer/main/assets/screenshot.png)
 
 </details>
 
