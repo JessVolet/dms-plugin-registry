@@ -78,12 +78,12 @@
     "url": "https://github.com/raphamzn/dms-acer-sense"
   },
   "activateLinux": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -107,10 +107,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/activateLinux/screenshot.png",
       "version": "2.2.1"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "adguardVPplugin": {
@@ -426,12 +426,12 @@
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "ambientSound": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -458,10 +458,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/ambientSound/screenshot.png",
       "version": "2.6.1"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "amdGpuMonitor": {
@@ -1245,12 +1245,12 @@
     "url": "https://github.com/coldi1337/dms-bitwarden-cli"
   },
   "bongoCat": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -1277,10 +1277,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/bongoCat/screenshot.png",
       "version": "2.4.1"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "brSoccer": {
@@ -1322,12 +1322,12 @@
     "url": "https://github.com/Nadoutti/nadotti-br-soccer-plugin"
   },
   "breathing": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -1354,10 +1354,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/breathing/screenshot.png",
       "version": "2.2.1"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "caffeineRedesigned": {
@@ -2646,12 +2646,12 @@
     "url": "https://github.com/alcxyz/DankAIUsage"
   },
   "dankActions": {
-    "date": "2026-10-26T14:29:18-04:00",
+    "date": "2026-10-28T10:10:41-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-38eE9+pi0fWshwM1W6clRojTtT9cJlQuquxjCAc1D5o=",
+    "hash": "sha256-zrbWy8IkiCrWv9EjIipnolbiF4SmikATSFRGc/Yi/Z4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dux Labs",
@@ -2675,10 +2675,10 @@
       "screenshot": "https://raw.githubusercontent.com/duxlabs-dev/dux-plugin-registry/master/assets/dank-actions.png",
       "version": "1.0.5"
     },
-    "path": "/nix/store/w7w6yz1mppi68294qaqx62lc8jhjdwcy-dux-plugins",
-    "rev": "f53b2813b9a782b0e2df4444357fb488136733ba",
+    "path": "/nix/store/vnps0f46g85hp16m8g3hbfgd4sn3s4qb-dux-plugins",
+    "rev": "96201bd52b148b311c74eafca3988cc4d0cd0d8f",
     "rootDir": "",
-    "sha256": "16hg6l3hhqzcm8p589jw7ysx72264nkmnd83hyngblb2xbvq9iyz",
+    "sha256": "17px4bv76ijl909l12m6hhby4mm2cwm248yipzb2m214qb5xddnf",
     "url": "https://github.com/duxlabs-dev/dux-plugins"
   },
   "dankAlbumWidget": {
@@ -3042,12 +3042,12 @@
     "url": "https://github.com/NordicsSys/dankCleaner"
   },
   "dankClight": {
-    "date": "2026-10-26T14:29:18-04:00",
+    "date": "2026-10-28T10:10:41-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-38eE9+pi0fWshwM1W6clRojTtT9cJlQuquxjCAc1D5o=",
+    "hash": "sha256-zrbWy8IkiCrWv9EjIipnolbiF4SmikATSFRGc/Yi/Z4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dux Labs",
@@ -3075,10 +3075,10 @@
       "screenshot": "https://raw.githubusercontent.com/duxlabs-dev/dux-plugins/refs/heads/master/DankClight/screenshot.png",
       "version": "1.0.1"
     },
-    "path": "/nix/store/w7w6yz1mppi68294qaqx62lc8jhjdwcy-dux-plugins",
-    "rev": "f53b2813b9a782b0e2df4444357fb488136733ba",
+    "path": "/nix/store/vnps0f46g85hp16m8g3hbfgd4sn3s4qb-dux-plugins",
+    "rev": "96201bd52b148b311c74eafca3988cc4d0cd0d8f",
     "rootDir": "",
-    "sha256": "16hg6l3hhqzcm8p589jw7ysx72264nkmnd83hyngblb2xbvq9iyz",
+    "sha256": "17px4bv76ijl909l12m6hhby4mm2cwm248yipzb2m214qb5xddnf",
     "url": "https://github.com/duxlabs-dev/dux-plugins"
   },
   "dankConsoleSteam": {
@@ -3119,12 +3119,12 @@
     "url": "https://github.com/JessVolet/DankConsoleModeWithSteam"
   },
   "dankDesktopWeather": {
-    "date": "2026-10-26T14:29:18-04:00",
+    "date": "2026-10-28T10:10:41-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-38eE9+pi0fWshwM1W6clRojTtT9cJlQuquxjCAc1D5o=",
+    "hash": "sha256-zrbWy8IkiCrWv9EjIipnolbiF4SmikATSFRGc/Yi/Z4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dux Labs",
@@ -3149,10 +3149,10 @@
       "screenshot": "https://raw.githubusercontent.com/duxlabs-dev/dux-plugin-registry/master/assets/dank-desktop-weather.png",
       "version": "1.0.1"
     },
-    "path": "/nix/store/w7w6yz1mppi68294qaqx62lc8jhjdwcy-dux-plugins",
-    "rev": "f53b2813b9a782b0e2df4444357fb488136733ba",
+    "path": "/nix/store/vnps0f46g85hp16m8g3hbfgd4sn3s4qb-dux-plugins",
+    "rev": "96201bd52b148b311c74eafca3988cc4d0cd0d8f",
     "rootDir": "",
-    "sha256": "16hg6l3hhqzcm8p589jw7ysx72264nkmnd83hyngblb2xbvq9iyz",
+    "sha256": "17px4bv76ijl909l12m6hhby4mm2cwm248yipzb2m214qb5xddnf",
     "url": "https://github.com/duxlabs-dev/dux-plugins"
   },
   "dankDiskUsage": {
@@ -3228,12 +3228,12 @@
     "url": "https://github.com/schneik80/dms-geary-mail"
   },
   "dankGifSearch": {
-    "date": "2026-10-26T14:29:18-04:00",
+    "date": "2026-10-28T10:10:41-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-38eE9+pi0fWshwM1W6clRojTtT9cJlQuquxjCAc1D5o=",
+    "hash": "sha256-zrbWy8IkiCrWv9EjIipnolbiF4SmikATSFRGc/Yi/Z4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dux Labs",
@@ -3262,10 +3262,10 @@
       "screenshot": "https://raw.githubusercontent.com/duxlabs-dev/dux-plugins/refs/heads/master/DankGifSearch/screenshot.png",
       "version": "1.0.5"
     },
-    "path": "/nix/store/w7w6yz1mppi68294qaqx62lc8jhjdwcy-dux-plugins",
-    "rev": "f53b2813b9a782b0e2df4444357fb488136733ba",
+    "path": "/nix/store/vnps0f46g85hp16m8g3hbfgd4sn3s4qb-dux-plugins",
+    "rev": "96201bd52b148b311c74eafca3988cc4d0cd0d8f",
     "rootDir": "",
-    "sha256": "16hg6l3hhqzcm8p589jw7ysx72264nkmnd83hyngblb2xbvq9iyz",
+    "sha256": "17px4bv76ijl909l12m6hhby4mm2cwm248yipzb2m214qb5xddnf",
     "url": "https://github.com/duxlabs-dev/dux-plugins"
   },
   "dankHermes": {
@@ -3303,12 +3303,12 @@
     "url": "https://github.com/huangkaile22-prog/dankhermes"
   },
   "dankHooks": {
-    "date": "2026-10-26T14:29:18-04:00",
+    "date": "2026-10-28T10:10:41-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-38eE9+pi0fWshwM1W6clRojTtT9cJlQuquxjCAc1D5o=",
+    "hash": "sha256-zrbWy8IkiCrWv9EjIipnolbiF4SmikATSFRGc/Yi/Z4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dux Labs",
@@ -3332,19 +3332,19 @@
       "screenshot": "https://raw.githubusercontent.com/duxlabs-dev/dux-plugin-registry/master/assets/dank-hooks.png",
       "version": "1.0.9"
     },
-    "path": "/nix/store/w7w6yz1mppi68294qaqx62lc8jhjdwcy-dux-plugins",
-    "rev": "f53b2813b9a782b0e2df4444357fb488136733ba",
+    "path": "/nix/store/vnps0f46g85hp16m8g3hbfgd4sn3s4qb-dux-plugins",
+    "rev": "96201bd52b148b311c74eafca3988cc4d0cd0d8f",
     "rootDir": "",
-    "sha256": "16hg6l3hhqzcm8p589jw7ysx72264nkmnd83hyngblb2xbvq9iyz",
+    "sha256": "17px4bv76ijl909l12m6hhby4mm2cwm248yipzb2m214qb5xddnf",
     "url": "https://github.com/duxlabs-dev/dux-plugins"
   },
   "dankHyprlandWindows": {
-    "date": "2026-10-26T14:29:18-04:00",
+    "date": "2026-10-28T10:10:41-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-38eE9+pi0fWshwM1W6clRojTtT9cJlQuquxjCAc1D5o=",
+    "hash": "sha256-zrbWy8IkiCrWv9EjIipnolbiF4SmikATSFRGc/Yi/Z4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dux Labs",
@@ -3369,19 +3369,19 @@
       "screenshot": "https://raw.githubusercontent.com/duxlabs-dev/dux-plugins/refs/heads/master/DankHyprlandWindows/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/w7w6yz1mppi68294qaqx62lc8jhjdwcy-dux-plugins",
-    "rev": "f53b2813b9a782b0e2df4444357fb488136733ba",
+    "path": "/nix/store/vnps0f46g85hp16m8g3hbfgd4sn3s4qb-dux-plugins",
+    "rev": "96201bd52b148b311c74eafca3988cc4d0cd0d8f",
     "rootDir": "",
-    "sha256": "16hg6l3hhqzcm8p589jw7ysx72264nkmnd83hyngblb2xbvq9iyz",
+    "sha256": "17px4bv76ijl909l12m6hhby4mm2cwm248yipzb2m214qb5xddnf",
     "url": "https://github.com/duxlabs-dev/dux-plugins"
   },
   "dankKDEConnect": {
-    "date": "2026-10-26T14:29:18-04:00",
+    "date": "2026-10-28T10:10:41-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-38eE9+pi0fWshwM1W6clRojTtT9cJlQuquxjCAc1D5o=",
+    "hash": "sha256-zrbWy8IkiCrWv9EjIipnolbiF4SmikATSFRGc/Yi/Z4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dux Labs",
@@ -3411,19 +3411,19 @@
       "screenshot": "https://raw.githubusercontent.com/duxlabs-dev/dux-plugins/refs/heads/master/DankKDEConnect/screenshot.png",
       "version": "3.0.1"
     },
-    "path": "/nix/store/w7w6yz1mppi68294qaqx62lc8jhjdwcy-dux-plugins",
-    "rev": "f53b2813b9a782b0e2df4444357fb488136733ba",
+    "path": "/nix/store/vnps0f46g85hp16m8g3hbfgd4sn3s4qb-dux-plugins",
+    "rev": "96201bd52b148b311c74eafca3988cc4d0cd0d8f",
     "rootDir": "",
-    "sha256": "16hg6l3hhqzcm8p589jw7ysx72264nkmnd83hyngblb2xbvq9iyz",
+    "sha256": "17px4bv76ijl909l12m6hhby4mm2cwm248yipzb2m214qb5xddnf",
     "url": "https://github.com/duxlabs-dev/dux-plugins"
   },
   "dankLauncherKeys": {
-    "date": "2026-10-26T14:29:18-04:00",
+    "date": "2026-10-28T10:10:41-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-38eE9+pi0fWshwM1W6clRojTtT9cJlQuquxjCAc1D5o=",
+    "hash": "sha256-zrbWy8IkiCrWv9EjIipnolbiF4SmikATSFRGc/Yi/Z4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dux Labs",
@@ -3448,10 +3448,10 @@
       "screenshot": "https://raw.githubusercontent.com/duxlabs-dev/dux-plugins/refs/heads/master/DankLauncherKeys/screenshot.png",
       "version": "1.0.4"
     },
-    "path": "/nix/store/w7w6yz1mppi68294qaqx62lc8jhjdwcy-dux-plugins",
-    "rev": "f53b2813b9a782b0e2df4444357fb488136733ba",
+    "path": "/nix/store/vnps0f46g85hp16m8g3hbfgd4sn3s4qb-dux-plugins",
+    "rev": "96201bd52b148b311c74eafca3988cc4d0cd0d8f",
     "rootDir": "",
-    "sha256": "16hg6l3hhqzcm8p589jw7ysx72264nkmnd83hyngblb2xbvq9iyz",
+    "sha256": "17px4bv76ijl909l12m6hhby4mm2cwm248yipzb2m214qb5xddnf",
     "url": "https://github.com/duxlabs-dev/dux-plugins"
   },
   "dankMenu": {
@@ -3601,12 +3601,12 @@
     "url": "https://github.com/Xn4m3d/dms-rss-widget"
   },
   "dankNotepadModule": {
-    "date": "2026-10-26T14:29:18-04:00",
+    "date": "2026-10-28T10:10:41-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-38eE9+pi0fWshwM1W6clRojTtT9cJlQuquxjCAc1D5o=",
+    "hash": "sha256-zrbWy8IkiCrWv9EjIipnolbiF4SmikATSFRGc/Yi/Z4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dux Labs",
@@ -3633,10 +3633,10 @@
       "screenshot": "https://raw.githubusercontent.com/duxlabs-dev/dux-plugins/refs/heads/master/DankNotepadModule/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/w7w6yz1mppi68294qaqx62lc8jhjdwcy-dux-plugins",
-    "rev": "f53b2813b9a782b0e2df4444357fb488136733ba",
+    "path": "/nix/store/vnps0f46g85hp16m8g3hbfgd4sn3s4qb-dux-plugins",
+    "rev": "96201bd52b148b311c74eafca3988cc4d0cd0d8f",
     "rootDir": "",
-    "sha256": "16hg6l3hhqzcm8p589jw7ysx72264nkmnd83hyngblb2xbvq9iyz",
+    "sha256": "17px4bv76ijl909l12m6hhby4mm2cwm248yipzb2m214qb5xddnf",
     "url": "https://github.com/duxlabs-dev/dux-plugins"
   },
   "dankObsidian": {
@@ -3714,12 +3714,12 @@
     "url": "https://github.com/pacman99/DankPinentry"
   },
   "dankPomodoroTimer": {
-    "date": "2026-10-26T14:29:18-04:00",
+    "date": "2026-10-28T10:10:41-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-38eE9+pi0fWshwM1W6clRojTtT9cJlQuquxjCAc1D5o=",
+    "hash": "sha256-zrbWy8IkiCrWv9EjIipnolbiF4SmikATSFRGc/Yi/Z4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dux Labs",
@@ -3743,10 +3743,10 @@
       "screenshot": "https://raw.githubusercontent.com/duxlabs-dev/dux-plugin-registry/master/assets/dank-pomodoro.png",
       "version": "1.1.6"
     },
-    "path": "/nix/store/w7w6yz1mppi68294qaqx62lc8jhjdwcy-dux-plugins",
-    "rev": "f53b2813b9a782b0e2df4444357fb488136733ba",
+    "path": "/nix/store/vnps0f46g85hp16m8g3hbfgd4sn3s4qb-dux-plugins",
+    "rev": "96201bd52b148b311c74eafca3988cc4d0cd0d8f",
     "rootDir": "",
-    "sha256": "16hg6l3hhqzcm8p589jw7ysx72264nkmnd83hyngblb2xbvq9iyz",
+    "sha256": "17px4bv76ijl909l12m6hhby4mm2cwm248yipzb2m214qb5xddnf",
     "url": "https://github.com/duxlabs-dev/dux-plugins"
   },
   "dankQuickSearch": {
@@ -3933,12 +3933,12 @@
     "url": "https://github.com/alcxyz/DankSession"
   },
   "dankSoftwareDepot": {
-    "date": "2026-10-27T22:18:30+01:00",
+    "date": "2026-10-28T12:16:38+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-20e9RXtHNEjj9u1KnG+kcsbWnV0cMFVGm7nKAfRwqoU=",
+    "hash": "sha256-4Y6lv+gWq7uwln9jqLvO/EXrWhQZhfEGTMbP56QDVRc=",
     "leaveDotGit": false,
     "meta": {
       "author": "Vincent Blok",
@@ -3969,12 +3969,12 @@
       "repo": "https://github.com/vinceecniv/DuxSoftwareDepot",
       "requires_dms": ">=1.6.0",
       "screenshot": "https://raw.githubusercontent.com/vinceecniv/DuxSoftwareDepot/main/screenshot.png",
-      "version": "1.7.2"
+      "version": "1.7.3"
     },
-    "path": "/nix/store/xjf5q4405f9yrid5r3f9bpln8rdyx630-DuxSoftwareDepot",
-    "rev": "724be99308df058f189cbf23901a397e6a4e025c",
+    "path": "/nix/store/2s8a38dm1w4j5hc48zs966gx2ij86fkf-DuxSoftwareDepot",
+    "rev": "10c691a834d81cabcd839fad33f9ccae6a449014",
     "rootDir": "",
-    "sha256": "11daf3s03jmrkd35ac0wbnfxdikjliprqjpdyvilhd27gd2vsiyv",
+    "sha256": "05sm0fjfgky69h3g318r2idfnigwrsxshqvzjsqbpaqnx2zsb3p1",
     "url": "https://github.com/vinceecniv/DuxSoftwareDepot"
   },
   "dankSpotify": {
@@ -4016,12 +4016,12 @@
     "url": "https://github.com/alcxyz/DankSpotify"
   },
   "dankStickerSearch": {
-    "date": "2026-10-26T14:29:18-04:00",
+    "date": "2026-10-28T10:10:41-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-38eE9+pi0fWshwM1W6clRojTtT9cJlQuquxjCAc1D5o=",
+    "hash": "sha256-zrbWy8IkiCrWv9EjIipnolbiF4SmikATSFRGc/Yi/Z4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dux Labs",
@@ -4049,10 +4049,10 @@
       "screenshot": "https://raw.githubusercontent.com/duxlabs-dev/dux-plugins/refs/heads/master/DankStickerSearch/screenshot.png",
       "version": "1.0.5"
     },
-    "path": "/nix/store/w7w6yz1mppi68294qaqx62lc8jhjdwcy-dux-plugins",
-    "rev": "f53b2813b9a782b0e2df4444357fb488136733ba",
+    "path": "/nix/store/vnps0f46g85hp16m8g3hbfgd4sn3s4qb-dux-plugins",
+    "rev": "96201bd52b148b311c74eafca3988cc4d0cd0d8f",
     "rootDir": "",
-    "sha256": "16hg6l3hhqzcm8p589jw7ysx72264nkmnd83hyngblb2xbvq9iyz",
+    "sha256": "17px4bv76ijl909l12m6hhby4mm2cwm248yipzb2m214qb5xddnf",
     "url": "https://github.com/duxlabs-dev/dux-plugins"
   },
   "dankStopwatch": {
@@ -4851,12 +4851,12 @@
     "url": "https://github.com/yayuuu/desktopCommand"
   },
   "desktopWidgetToggle": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -4882,10 +4882,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/desktopWidgetToggle/screenshot.png",
       "version": "1.4.2"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "developerUtilities": {
@@ -6111,12 +6111,12 @@
     "url": "https://github.com/devnullvoid/dms-emoji-launcher"
   },
   "emojiPicker": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6141,10 +6141,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/emojiPicker/screenshot.png",
       "version": "0.5.1"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "enderPulse": {
@@ -7102,12 +7102,12 @@
     "url": "https://github.com/devnullvoid/dms-hamqsl-propagation"
   },
   "handMirror": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -7133,10 +7133,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/handMirror/screenshot.png",
       "version": "1.2.1"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "herdrAgentMonitor": {
@@ -7176,12 +7176,12 @@
     "url": "https://github.com/Mor-dev/herdr-agent-monitor"
   },
   "hiddenBar": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -7206,10 +7206,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/hiddenBar/screenshot.png",
       "version": "2.5.4"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "homeAssistantMonitor": {
@@ -7288,12 +7288,12 @@
     "url": "https://github.com/TheDoukiDrift/hoshiCalendar"
   },
   "hostnameWidget": {
-    "date": "2026-05-14T16:32:47+02:00",
+    "date": "2026-10-28T13:41:48+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ARL4EK8Chgryhk7vEpVwbF7s5d8JLNLWJtmfMm6zGeg=",
+    "hash": "sha256-WK2NwZa0eyALxXk9FPovmTt53yAoFAmeM1FWB7qvcW0=",
     "leaveDotGit": false,
     "meta": {
       "author": "irunatbullets",
@@ -7313,12 +7313,12 @@
       "name": "Hostname Widget",
       "repo": "https://github.com/irunatbullets/hostname-widget",
       "screenshot": "https://raw.githubusercontent.com/irunatbullets/hostname-widget/main/assets/screenshot.png",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
-    "path": "/nix/store/qcryr4826022jqznk1n323mb4ppfaf05-hostname-widget",
-    "rev": "a3b633de3d13d0d58ab34250bfc3e8fe527c896c",
+    "path": "/nix/store/hljv2nnwprfhzjsw5yp5xsis4cfiirrj-hostname-widget",
+    "rev": "9084aa73556c56d06bad03b90398a2b819aa220d",
     "rootDir": "",
-    "sha256": "1s0rndp357yr4vbd4b09vzjyqpkcf2ai5vsfhvr0m1h2mw8gh4h1",
+    "sha256": "0vbimyx0fmji6fg0j51843gpjfwr5zx18gbrql5j0yxljv0qvbaq",
     "url": "https://github.com/irunatbullets/hostname-widget"
   },
   "hueManager": {
@@ -7360,12 +7360,12 @@
     "url": "https://github.com/derethil/dms-hue-manager"
   },
   "hydrate": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -7389,10 +7389,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/hydrate/screenshot.png",
       "version": "2.2.2"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "hyprSubmap": {
@@ -7679,12 +7679,12 @@
     "url": "https://github.com/rollecode/dms-io-monitor"
   },
   "ipIndicator": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -7714,19 +7714,19 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/ipIndicator/screenshot.png",
       "version": "2.1.3"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "kaomojiPicker": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -7750,10 +7750,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/kaomojiPicker/screenshot.png",
       "version": "2.3.1"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "kbdBacklightOSD": {
@@ -8267,12 +8267,12 @@
     "url": "https://github.com/NyllRE/dms-plugins"
   },
   "lutrisLauncher": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -8299,10 +8299,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/lutrisLauncher/screenshot.png",
       "version": "2.1.2"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "lyricsEmbed": {
@@ -8750,12 +8750,12 @@
     "url": "https://github.com/lpv11/dms-media-controls-plus"
   },
   "mediaDownloader": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -8783,10 +8783,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/mediaDownloader/screenshot.png",
       "version": "1.1.0"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "mediaFrame": {
@@ -8826,15 +8826,15 @@
     "url": "https://codeberg.org/claymorwan/dms-plugins"
   },
   "mediaPlayer": {
-    "date": "2026-10-26T22:53:16+06:00",
+    "date": "2026-10-28T16:33:04-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KCY+RtngFSmj0W7N9cRwCA1GwWoAQaL9dW8Uj2CNNuw=",
+    "hash": "sha256-b9rRJL4tlSJYmLZ4wD1CElP+TUSnHDNXcLOpzs/Dw74=",
     "leaveDotGit": false,
     "meta": {
-      "author": "Abdur Rahman Rifat",
+      "author": "Bernardo Gomes (originally by Abdur Rahman Rifat)",
       "capabilities": [
         "desktop-widget"
       ],
@@ -8842,24 +8842,23 @@
       "compositors": [
         "any"
       ],
-      "dependencies": [
-        "cava"
-      ],
-      "description": "A desktop media player widget",
+      "dependencies": [],
+      "description": "Desktop MPRIS player with spinning album art, playback controls, a seekbar and an optional wave background. Uses the shell's media services, hides when nothing is playing.",
       "distro": [
         "any"
       ],
       "id": "mediaPlayer",
       "name": "Media Player",
-      "repo": "https://github.com/arrifat346afs/mediaPlayer",
-      "screenshot": "https://raw.githubusercontent.com/arrifat346afs/mediaPlayer/refs/heads/main/screenshot_8.png",
-      "version": "1.0.0"
+      "repo": "https://github.com/bernardopg/mediaPlayer",
+      "requires_dms": ">=2.0.0",
+      "screenshot": "https://raw.githubusercontent.com/bernardopg/mediaPlayer/main/assets/screenshot.png",
+      "version": "2.0.0"
     },
-    "path": "/nix/store/8p0vf29cdf7kmrziy5i3rndxwsnsrjyf-mediaPlayer",
-    "rev": "39052808b8c42096dfa1848024da67b206463d79",
+    "path": "/nix/store/qmwjd5x78ivcnkn0hk9xd0d873q875cp-mediaPlayer",
+    "rev": "0d4b75e7fe67942e1920e416124ef572c76e5dce",
     "rootDir": "",
-    "sha256": "1v1nimh8y53gfpys4h80db0lc388f32gbkbfs6ijj5g0v533w9i8",
-    "url": "https://github.com/arrifat346afs/mediaPlayer"
+    "sha256": "1gn3qg7wxadkf1bk67578i6zwlqj88yw0y5nk1c2559dpqjd3nkg",
+    "url": "https://github.com/bernardopg/mediaPlayer"
   },
   "mihomoVpn": {
     "date": "2026-10-02T17:56:23+03:00",
@@ -9544,12 +9543,12 @@
     "url": "https://github.com/Adnan0-IM/nipeControl"
   },
   "niriDS": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -9578,10 +9577,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/niriDS/screenshot.png",
       "version": "2.0.6"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "niriDSA": {
@@ -10082,12 +10081,12 @@
     "url": "https://github.com/kmf/dms-obsidian-search"
   },
   "ocrScanner": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -10116,10 +10115,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/ocrScanner/screenshot.png",
       "version": "2.1.2"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "openTrackerBar": {
@@ -10349,12 +10348,12 @@
     "url": "https://github.com/rassoulshah/dms-persian-calendar"
   },
   "persona5Calendar": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -10378,10 +10377,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/persona5Calendar/screenshot.png",
       "version": "1.1.1"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "personalDictionary": {
@@ -10824,12 +10823,12 @@
     "url": "https://github.com/lildengzi/pureLyrics"
   },
   "quickCapture": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -10864,10 +10863,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/quickCapture/screenshot.png",
       "version": "5.8.0"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "quickTote": {
@@ -11513,12 +11512,12 @@
     "url": "https://github.com/smithyyang/dms-screen-recorder"
   },
   "screenkey": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -11547,10 +11546,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/screenkey/screenshot.png",
       "version": "1.1.1"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "screenshotPlus": {
@@ -12503,12 +12502,12 @@
     "url": "https://github.com/HotcocoaCanary/Canary-DMS-TailscaleDashboard"
   },
   "takeABreak": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -12534,10 +12533,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/takeABreak/screenshot.png",
       "version": "1.5.1"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "tasks": {
@@ -12766,12 +12765,12 @@
     "url": "https://github.com/fdmarcin/TimeUntil"
   },
   "timer": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -12800,10 +12799,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/timer/screenshot.png",
       "version": "3.1.1"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "tlpControl": {
@@ -12988,12 +12987,12 @@
     "url": "https://github.com/Lemon-mon-254/dms-plugin-TS6Monitor"
   },
   "typingSounds": {
-    "date": "2026-10-28T08:16:34+07:00",
+    "date": "2026-10-28T10:10:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KXl7BPoWApOMmbpyAdyw1UMxvqRLqD33FSc/VjNLroA=",
+    "hash": "sha256-nTUS8r+0LGgxYzJzSuCQ69dkL3Oi+nPT0yL465rKDOk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -13023,10 +13022,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-plugins/main/typingSounds/screenshot.png",
       "version": "1.4.1"
     },
-    "path": "/nix/store/2ar8xgyscmnxxx1inkbl805whzv15nq0-dms-plugins",
-    "rev": "54ae7922d471017e1e6cc7a7774ec642f4b7f0f4",
+    "path": "/nix/store/2c8amrgpxn82ibysmafmfqyfc90g6hdb-dms-plugins",
+    "rev": "ccb969fe96e36e3c61ca6b0814fbc1573b0e4de0",
     "rootDir": "",
-    "sha256": "105f9crmcgr72pvkva2bljz32hymn3f02wmsk66960hnz827ny99",
+    "sha256": "1s8cradfpy12sg9p7ym2fcpn9mzbj3h4lwrjccqnhb5lpzr14dcx",
     "url": "https://github.com/hthienloc/dms-plugins"
   },
   "umbrellaClock": {
@@ -13227,12 +13226,12 @@
     "url": "https://github.com/NordicsSys/dms-usb-manager"
   },
   "vMonitorSRV": {
-    "date": "2026-08-12T22:15:24-06:00",
+    "date": "2026-10-27T22:59:05-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-lqBzMeoqhqZK2n7jz8Q1SpeaGXe6tNGubq3sUW6ZYxw=",
+    "hash": "sha256-fZ1vtMu9jBKCcaBIKpACXi8Ku0tR5bFlJQNANsDm5hM=",
     "leaveDotGit": false,
     "meta": {
       "author": "JessVolet",
@@ -13257,12 +13256,12 @@
       "name": "VMonitorSRV",
       "repo": "https://github.com/JessVolet/VMonitorSRV",
       "screenshot": "https://raw.githubusercontent.com/JessVolet/VMonitorSRV/main/screenshot.png",
-      "version": "1.0.0"
+      "version": "2.2.0"
     },
-    "path": "/nix/store/m5qrh8b9zvngxynamhpgp73a89fhqcmv-VMonitorSRV",
-    "rev": "afece8ca881d81aa9efa3a3eda96df738e41e008",
+    "path": "/nix/store/bzcja0y8b9x4nzgyi3na4aks4x7di2gb-VMonitorSRV",
+    "rev": "fe14edc86e1ac9e4c1fc0f6af06fdff079292858",
     "rootDir": "",
-    "sha256": "0733k5p53v5ddspd3d5sfwcrm5sa6p2czqvyv95ad1iax8qp784n",
+    "sha256": "04z6wv03ch034mjv3rai9fxhlbsy0a82lj50f611535xrfs6z7bx",
     "url": "https://github.com/JessVolet/VMonitorSRV"
   },
   "virtManager": {
