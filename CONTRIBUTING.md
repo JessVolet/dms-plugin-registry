@@ -79,6 +79,8 @@ Every plugin gets a standardized 960×540 preview card served at `https://api.da
 
 Screenshots of any aspect ratio work well — the card letterboxes them over a blurred backdrop rather than cropping. Capture your plugin in a representative state (popout open, real data visible) on the default dank purple theme where possible.
 
+Show the plugin's interface with enough context to identify it—not the whole desktop. For example, capture its DankBar/Control Center widget, modal, launcher, or settings/result for a background service. Full-screen captures are fine for full-screen plugins.
+
 If you prefer to hand-craft the full card image, there is a web generator at [`https://duxlabs.dev/thumbnail-generator.html`](https://duxlabs.dev/thumbnail-generator.html) that produces cards matching the standard layout (see `docs/PREVIEWS.md` for the exact composition spec).
 
 4. **Validate your plugin locally** before submitting:
@@ -118,7 +120,7 @@ If you prefer to hand-craft the full card image, there is a web generator at [`h
 - Keep descriptions concise and informative
 - Ensure your repository has proper documentation
 - Test that your plugin works with the specified compositors and distros
-- Capture your screenshot in a representative state — popout open, real data visible — ideally on the default dank purple theme (see [Previews](#previews))
+- Capture your screenshot in a representative state — with the relevant plugin interface and real data visible — ideally on the default dank purple theme (see [Previews](#previews))
 - **Prefer Built-in DMS Utilities**: Do not declare external dependencies for capabilities that DMS already provides natively. See [Built-in Alternatives](#built-in-alternatives) below.
 - **IMPORTANT**: The `id` and `name` fields in your registry JSON file **must exactly match** the corresponding fields in your plugin repository's `plugin.json` file
   - For regular plugins: Must match `{repo}/plugin.json`
