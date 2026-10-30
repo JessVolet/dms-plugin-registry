@@ -12247,12 +12247,12 @@
     "url": "https://github.com/iSparsh/dms-stickynotes"
   },
   "stockManager": {
-    "date": "2026-04-03T18:04:06+08:00",
+    "date": "2026-10-30T10:20:17+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-GHbsnWFSoyBE4OVNwicpc5G6s4w+ja7KZl2m0o+B1jA=",
+    "hash": "sha256-+/t33U3a3ZLuPRry0MCqUhcN1jYvCuC5TEkzXhxU8jE=",
     "leaveDotGit": false,
     "meta": {
       "author": "LeeMeng",
@@ -12278,10 +12278,10 @@
       "screenshot": "https://github.com/leemeng0x61/stockManager/raw/main/screenshot/sc.png",
       "version": "1.2.2"
     },
-    "path": "/nix/store/mgb738nsw36hbp9xsdr386841hpl8xjz-stockManager",
-    "rev": "cbba650f97540015ff19fb29be5eb1cf0c8bdd81",
+    "path": "/nix/store/791xcl48q88xiq1027ndgz26dlvss40m-stockManager",
+    "rev": "876e6a4ae918e4a7caf898ec47e71e1cd3889d1b",
     "rootDir": "",
-    "sha256": "0c6nh67x59jxcv5ax39yijrvm4bk54kw4kg5w12218sjc6fyqxhq",
+    "sha256": "0cgjahf5wcs99jwy02ig6vb0s5sjmb0d1whs7pp95pfs9pfpgyzv",
     "url": "https://github.com/leemeng0x61/stockManager"
   },
   "storageMonitor": {
